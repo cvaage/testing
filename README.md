@@ -11,3 +11,7 @@ Here are some reasons I like GitHub:
 * code and data
 
 * folders
+
+#Push/Pull
+
+We'll modify this file, commit it, and then pull it down to your local computer.
